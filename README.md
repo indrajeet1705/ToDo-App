@@ -69,9 +69,9 @@ Contributions are welcome! If you have suggestions or want to report an issue, p
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ---
 
-Developed with ❤️ by [Your Name](https://github.com/your-username)
+Developed with ❤️ by Indrajeet
 
